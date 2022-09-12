@@ -5,3 +5,6 @@ print(numero)
 numero = numero * 8
 print(numero)
 numero = numero / 5
+print(numero)
+numero = numero ** 2
+print(numero)

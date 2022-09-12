@@ -1,7 +1,6 @@
 from ast import Num
 from unittest import result
 
-
 num = int(input("Digite outro número: "))
 resultado = ((((num + 1357) *8) / 5) ** 2)
 
